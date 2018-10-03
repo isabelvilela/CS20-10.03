@@ -2,3 +2,9 @@ body {
   background-color: #99ccff;
   color: black;
 }
+
+div.container {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 70em;
+}
